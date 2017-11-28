@@ -1,0 +1,11 @@
+c:\users\tiago\source\repos\SupplyDefenseRelease\bin\Debug\netcoreapp2.0\SupplyDefenseRelease.deps.json
+c:\users\tiago\source\repos\SupplyDefenseRelease\bin\Debug\netcoreapp2.0\SupplyDefenseRelease.runtimeconfig.json
+c:\users\tiago\source\repos\SupplyDefenseRelease\bin\Debug\netcoreapp2.0\SupplyDefenseRelease.runtimeconfig.dev.json
+c:\users\tiago\source\repos\SupplyDefenseRelease\bin\Debug\netcoreapp2.0\SupplyDefenseRelease.dll
+c:\users\tiago\source\repos\SupplyDefenseRelease\bin\Debug\netcoreapp2.0\SupplyDefenseRelease.pdb
+c:\users\tiago\source\repos\SupplyDefenseRelease\obj\Debug\netcoreapp2.0\SupplyDefenseRelease.csprojResolveAssemblyReference.cache
+c:\users\tiago\source\repos\SupplyDefenseRelease\obj\Debug\netcoreapp2.0\SupplyDefenseRelease.csproj.CoreCompileInputs.cache
+c:\users\tiago\source\repos\SupplyDefenseRelease\obj\Debug\netcoreapp2.0\SupplyDefenseRelease.AssemblyInfoInputs.cache
+c:\users\tiago\source\repos\SupplyDefenseRelease\obj\Debug\netcoreapp2.0\SupplyDefenseRelease.AssemblyInfo.cs
+c:\users\tiago\source\repos\SupplyDefenseRelease\obj\Debug\netcoreapp2.0\SupplyDefenseRelease.dll
+c:\users\tiago\source\repos\SupplyDefenseRelease\obj\Debug\netcoreapp2.0\SupplyDefenseRelease.pdb
