@@ -1,5 +1,3 @@
-!wwwroot/*
-
 *.swp
 *.*~
 project.lock.json
@@ -32,3 +30,6 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
+
+# do not exclude anything from wwwroot
+!wwwroot/**/*
